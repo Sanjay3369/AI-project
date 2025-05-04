@@ -1,4 +1,7 @@
 # AI-project
+
+UI:- https://majestic-cannoli-dd0620.netlify.app
+
 ![image](https://github.com/user-attachments/assets/1116f6a4-788d-4930-b9b0-7e54bbc0a159)
 
 
